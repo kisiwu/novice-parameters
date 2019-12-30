@@ -1,0 +1,14 @@
+{
+  "name": "@novice/parameters",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "kaukau --config test/config/testconfig.js"
+  },
+  "author": "demingongo",
+  "license": "MIT",
+  "devDependencies": {
+    "kaukau": "^0.0.65"
+  }
+}
