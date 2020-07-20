@@ -1,7 +1,7 @@
 {
   "name": "@novice1/parameters",
   "private": false,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "repository": {
@@ -14,6 +14,6 @@
   "author": "demingongo",
   "license": "MIT",
   "devDependencies": {
-    "kaukau": "^0.0.65"
+    "kaukau": "0.0.71"
   }
 }
